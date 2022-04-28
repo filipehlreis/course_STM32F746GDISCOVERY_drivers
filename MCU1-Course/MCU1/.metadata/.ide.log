@@ -812,3 +812,8 @@
 2022-04-26 20:55:05,518 [INFO] ApiDb:436 - User favorites MCUs=[]
 2022-04-26 20:55:05,522 [INFO] ApiDb:432 - Save user favorites file C:\Users\Filipe Henrique/.stm32cubeide/favorites.boards.txt: 1 item(s)
 2022-04-26 20:55:05,522 [INFO] ApiDb:436 - User favorites Boards=[STM32F746G-DISCO]
+2022-04-27 21:09:38,381 [INFO] Activator:177 - 
+
+
+2022-04-27 21:09:38,383 [INFO] Activator:178 - !SESSION log4j initialized
+2022-04-27 21:09:49,650 [ERROR] AnalyticsContext:980 - The ST intranet updater server is unknown: mcucrossselector.codex.cro.st.com
