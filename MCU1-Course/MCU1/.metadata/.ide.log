@@ -817,3 +817,1540 @@
 
 2022-04-27 21:09:38,383 [INFO] Activator:178 - !SESSION log4j initialized
 2022-04-27 21:09:49,650 [ERROR] AnalyticsContext:980 - The ST intranet updater server is unknown: mcucrossselector.codex.cro.st.com
+2022-04-28 21:06:42,403 [INFO] Activator:177 - 
+
+
+2022-04-28 21:06:42,408 [INFO] Activator:178 - !SESSION log4j initialized
+2022-04-28 21:06:53,523 [ERROR] AnalyticsContext:980 - The ST intranet updater server is unknown: mcucrossselector.codex.cro.st.com
+2022-04-28 21:10:59,012 [INFO] McuFinderGlobals:39 - Set McuFinder mode to 2 (CubeIDE integrated)
+2022-04-28 21:10:59,351 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913
+2022-04-28 21:10:59,375 [INFO] DbMcusXml:72 - Set database path to: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\/mcu/
+2022-04-28 21:10:59,375 [INFO] ApiDb:260 - Set plugin database path to: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\/plugins/boardmanager/
+2022-04-28 21:10:59,377 [WARN] ApiDb:245 - Overriding images path with different value:  => C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\/plugins/mcufinder/images/
+2022-04-28 21:10:59,393 [INFO] ApiDb:226 - Set database path to: C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder//mcu/
+2022-04-28 21:10:59,394 [INFO] DbMcusAds:119 - Set database path to: C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder//mcu/
+2022-04-28 21:10:59,605 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder//mcu/cs/
+2022-04-28 21:10:59,756 [INFO] RulesReader:57 - Compatibility file has been processed (281 Rules)
+2022-04-28 21:10:59,882 [INFO] DbMcusXml:72 - Set database path to: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\/mcu/
+2022-04-28 21:10:59,883 [INFO] ApiDb:260 - Set plugin database path to: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\/plugins/boardmanager/
+2022-04-28 21:10:59,883 [INFO] ApiDb:247 - Set plugin images path to: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\/plugins/mcufinder/images/
+2022-04-28 21:10:59,883 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder/ => C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder
+2022-04-28 21:10:59,883 [INFO] ApiDb:226 - Set database path to: C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder//mcu/
+2022-04-28 21:10:59,883 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder/ => C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder
+2022-04-28 21:10:59,883 [INFO] DbMcusAds:119 - Set database path to: C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder//mcu/
+2022-04-28 21:10:59,884 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder/ => C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder
+2022-04-28 21:10:59,884 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder/ => C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder
+2022-04-28 21:10:59,884 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder//mcu/cs/
+2022-04-28 21:10:59,983 [INFO] MainPanel:230 - HeapMemory: 360710144
+2022-04-28 21:11:00,154 [INFO] DbMcusXml:72 - Set database path to: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\/mcu/
+2022-04-28 21:11:00,154 [INFO] ApiDb:260 - Set plugin database path to: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\/plugins/boardmanager/
+2022-04-28 21:11:00,154 [INFO] ApiDb:247 - Set plugin images path to: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\/plugins/mcufinder/images/
+2022-04-28 21:11:00,155 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder/ => C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder
+2022-04-28 21:11:00,155 [INFO] ApiDb:226 - Set database path to: C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder//mcu/
+2022-04-28 21:11:00,155 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder/ => C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder
+2022-04-28 21:11:00,155 [INFO] DbMcusAds:119 - Set database path to: C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder//mcu/
+2022-04-28 21:11:00,155 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder/ => C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder
+2022-04-28 21:11:00,155 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder/ => C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder
+2022-04-28 21:11:00,155 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder//mcu/cs/
+2022-04-28 21:11:00,182 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913
+2022-04-28 21:11:00,184 [INFO] PluginManage:188 - Search for loadable plugins [exclusion list=, ]
+2022-04-28 21:11:00,186 [INFO] PluginManage:302 - Check plugin analytics
+2022-04-28 21:11:00,328 [ERROR] AnalyticsContext:980 - The ST intranet updater server is unknown: mcucrossselector.codex.cro.st.com
+2022-04-28 21:11:04,917 [INFO] AnalyticsPlugin:257 - Accepted Software Licenses: 
+2022-04-28 21:11:04,918 [INFO] AnalyticsPlugin:259 - Accepted CMSIS Pack Licenses: 
+2022-04-28 21:11:04,918 [INFO] AnalyticsPlugin:261 - Accepted Firmware Licenses: 
+2022-04-28 21:11:04,926 [INFO] PluginManage:352 - Loaded plugin analytics (category:tool,tabindex:-1)
+2022-04-28 21:11:04,926 [INFO] PluginManage:302 - Check plugin clock
+2022-04-28 21:11:04,942 [INFO] PluginManage:352 - Loaded plugin clock (category:base,tabindex:2)
+2022-04-28 21:11:04,942 [INFO] PluginManage:302 - Check plugin ddr
+2022-04-28 21:11:04,946 [INFO] PluginManage:352 - Loaded plugin ddr (category:tool,tabindex:6)
+2022-04-28 21:11:04,946 [INFO] PluginManage:302 - Check plugin filemanager
+2022-04-28 21:11:05,112 [INFO] PluginManage:352 - Loaded plugin filemanager (category:base,tabindex:10)
+2022-04-28 21:11:05,112 [INFO] PluginManage:302 - Check plugin ipmanager
+2022-04-28 21:11:05,130 [INFO] PluginManage:352 - Loaded plugin ipmanager (category:base,tabindex:5)
+2022-04-28 21:11:05,130 [INFO] PluginManage:302 - Check plugin lpbam
+2022-04-28 21:11:05,143 [INFO] PluginManage:352 - Loaded plugin lpbam (category:base,tabindex:0)
+2022-04-28 21:11:05,143 [INFO] PluginManage:302 - Check plugin pinoutandconfiguration
+2022-04-28 21:11:05,156 [INFO] PluginManage:352 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2022-04-28 21:11:05,157 [INFO] PluginManage:302 - Check plugin pinoutconfig
+2022-04-28 21:11:05,193 [INFO] PluginManage:352 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2022-04-28 21:11:05,193 [INFO] PluginManage:302 - Check plugin power
+2022-04-28 21:11:05,225 [INFO] PluginManage:352 - Loaded plugin power (category:power,tabindex:4)
+2022-04-28 21:11:05,225 [INFO] PluginManage:302 - Check plugin projectmanager
+2022-04-28 21:11:05,250 [INFO] PluginManage:352 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2022-04-28 21:11:05,250 [INFO] PluginManage:302 - Check plugin thirdparty
+2022-04-28 21:11:05,478 [WARN] IntegrityCheckThread:78 - waiting for thirdparty lock release [integrity check]
+2022-04-28 21:11:05,478 [INFO] PluginManage:352 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2022-04-28 21:11:05,479 [INFO] IntegrityCheckThread:80 - entering critical section [integrity check]
+2022-04-28 21:11:05,479 [INFO] PluginManage:302 - Check plugin tools
+2022-04-28 21:11:05,482 [INFO] ThirdPartyUpdaterWithRetryManager:66 - Updater plugin not ready yet. [1/15]
+2022-04-28 21:11:05,483 [INFO] PluginManage:352 - Loaded plugin tools (category:base,tabindex:7)
+2022-04-28 21:11:05,484 [INFO] PluginManage:302 - Check plugin tutovideos
+2022-04-28 21:11:05,763 [INFO] PluginManage:352 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2022-04-28 21:11:05,763 [INFO] PluginManage:302 - Check plugin updater
+2022-04-28 21:11:05,787 [INFO] PluginManage:352 - Loaded plugin updater (category:base,tabindex:12)
+2022-04-28 21:11:05,788 [INFO] PluginManage:275 - PluginManage : Loaded plugins [14]
+2022-04-28 21:11:06,184 [INFO] PinOutPanel:1465 - setPackage(No Configuration,No Configuration)
+2022-04-28 21:11:06,294 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,295 [INFO] PluginManager:213 - loadIPPluginJar : add adc
+2022-04-28 21:11:06,300 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,300 [INFO] PluginManager:213 - loadIPPluginJar : add aes
+2022-04-28 21:11:06,304 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,304 [INFO] PluginManager:213 - loadIPPluginJar : add can
+2022-04-28 21:11:06,307 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,307 [INFO] PluginManager:213 - loadIPPluginJar : add comp
+2022-04-28 21:11:06,312 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,312 [INFO] PluginManager:213 - loadIPPluginJar : add cryp
+2022-04-28 21:11:06,317 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,317 [INFO] PluginManager:213 - loadIPPluginJar : add dfsdm
+2022-04-28 21:11:06,327 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,328 [INFO] PluginManager:213 - loadIPPluginJar : add dma
+2022-04-28 21:11:06,335 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,338 [INFO] PluginManager:213 - loadIPPluginJar : add dma3
+2022-04-28 21:11:06,341 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,342 [INFO] PluginManager:213 - loadIPPluginJar : add fatfs
+2022-04-28 21:11:06,349 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,349 [INFO] PluginManager:213 - loadIPPluginJar : add fmc
+2022-04-28 21:11:06,357 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,358 [INFO] PluginManager:213 - loadIPPluginJar : add freertos
+2022-04-28 21:11:06,361 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,361 [INFO] PluginManager:213 - loadIPPluginJar : add genericplugin
+2022-04-28 21:11:06,365 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,365 [INFO] PluginManager:213 - loadIPPluginJar : add gfxmmu
+2022-04-28 21:11:06,373 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,373 [INFO] PluginManager:213 - loadIPPluginJar : add gic
+2022-04-28 21:11:06,380 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,380 [INFO] PluginManager:213 - loadIPPluginJar : add gpio
+2022-04-28 21:11:06,385 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,385 [INFO] PluginManager:213 - loadIPPluginJar : add gtzc
+2022-04-28 21:11:06,391 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,392 [INFO] PluginManager:213 - loadIPPluginJar : add hash
+2022-04-28 21:11:06,397 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,397 [INFO] PluginManager:213 - loadIPPluginJar : add i2c
+2022-04-28 21:11:06,401 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,401 [INFO] PluginManager:213 - loadIPPluginJar : add i2s
+2022-04-28 21:11:06,406 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,406 [INFO] PluginManager:213 - loadIPPluginJar : add ipddr
+2022-04-28 21:11:06,415 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,415 [INFO] PluginManager:213 - loadIPPluginJar : add linkedlist
+2022-04-28 21:11:06,419 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,420 [INFO] PluginManager:213 - loadIPPluginJar : add lorawan
+2022-04-28 21:11:06,423 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,424 [INFO] PluginManager:213 - loadIPPluginJar : add ltdc
+2022-04-28 21:11:06,432 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,433 [INFO] PluginManager:213 - loadIPPluginJar : add mdma
+2022-04-28 21:11:06,439 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,439 [INFO] PluginManager:213 - loadIPPluginJar : add nvic
+2022-04-28 21:11:06,444 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,444 [INFO] PluginManager:213 - loadIPPluginJar : add opamp
+2022-04-28 21:11:06,450 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,451 [INFO] PluginManager:213 - loadIPPluginJar : add openamp
+2022-04-28 21:11:06,459 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,460 [INFO] PluginManager:213 - loadIPPluginJar : add pdm2pcm
+2022-04-28 21:11:06,474 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,477 [INFO] PluginManager:213 - loadIPPluginJar : add plateformsettings
+2022-04-28 21:11:06,480 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,480 [INFO] PluginManager:213 - loadIPPluginJar : add quadspi
+2022-04-28 21:11:06,487 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,488 [INFO] PluginManager:213 - loadIPPluginJar : add resmgrutility
+2022-04-28 21:11:06,493 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,493 [INFO] PluginManager:213 - loadIPPluginJar : add sai
+2022-04-28 21:11:06,497 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,497 [INFO] PluginManager:213 - loadIPPluginJar : add spi
+2022-04-28 21:11:06,504 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,504 [INFO] PluginManager:213 - loadIPPluginJar : add stm32_wpan
+2022-04-28 21:11:06,507 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,508 [INFO] PluginManager:213 - loadIPPluginJar : add tim
+2022-04-28 21:11:06,516 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,517 [INFO] PluginManager:213 - loadIPPluginJar : add touchsensing
+2022-04-28 21:11:06,522 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,522 [INFO] PluginManager:213 - loadIPPluginJar : add tracer_emb
+2022-04-28 21:11:06,526 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,526 [INFO] PluginManager:213 - loadIPPluginJar : add ts
+2022-04-28 21:11:06,530 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,531 [INFO] PluginManager:213 - loadIPPluginJar : add tsc
+2022-04-28 21:11:06,535 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,535 [INFO] PluginManager:213 - loadIPPluginJar : add ucpd
+2022-04-28 21:11:06,541 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,541 [INFO] PluginManager:213 - loadIPPluginJar : add usart
+2022-04-28 21:11:06,545 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:11:06,546 [INFO] PluginManager:213 - loadIPPluginJar : add usbx
+2022-04-28 21:11:06,898 [FATAL] Updater:297 - Updater called before beeing initialized
+2022-04-28 21:11:07,035 [FATAL] Updater:297 - Updater called before beeing initialized
+2022-04-28 21:11:07,043 [INFO] DbMcusAds:47 - JSON generation date=Thu Sep 30 03:56:37 BRT 2021 (1632984997303)
+2022-04-28 21:11:07,043 [FATAL] Updater:297 - Updater called before beeing initialized
+2022-04-28 21:11:07,117 [WARN] DetailPanel:320 - Failed to get advertising image, set to default
+2022-04-28 21:11:07,249 [FATAL] Updater:297 - Updater called before beeing initialized
+2022-04-28 21:11:07,253 [FATAL] Updater:297 - Updater called before beeing initialized
+2022-04-28 21:11:07,253 [FATAL] Updater:297 - Updater called before beeing initialized
+2022-04-28 21:11:07,253 [WARN] DetailPanel:320 - Failed to get advertising image, set to default
+2022-04-28 21:11:07,254 [FATAL] Updater:297 - Updater called before beeing initialized
+2022-04-28 21:11:07,312 [INFO] Updater:1026 - Updater Version found : 6.5.0
+2022-04-28 21:11:07,352 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913
+2022-04-28 21:11:07,857 [INFO] MainUpdater:2729 - connection check result : 10
+2022-04-28 21:11:07,857 [INFO] MainUpdater:276 - Updater Check For Update Now.
+2022-04-28 21:11:07,857 [INFO] MicroXplorer:477 - Change Database Version : DB.6.0.50
+2022-04-28 21:11:08,022 [INFO] CheckServerUpdateThread:115 - End of CheckServer Thread
+2022-04-28 21:11:08,080 [INFO] MainUpdater:2729 - connection check result : 10
+2022-04-28 21:11:08,088 [INFO] McuFinderGlobals:52 - Set McuFinderConnectedMode to true
+2022-04-28 21:11:08,491 [WARN] MainUpdater:1180 - Updater busy. Cannot search thirdparties
+2022-04-28 21:11:08,492 [INFO] ThirdPartyUpdaterWithRetryManager:92 - Updater plugin is busy. [1/15]
+2022-04-28 21:11:08,650 [INFO] ServerAccessManage:359 - Download File mcusAds.json._tmp_
+2022-04-28 21:11:08,776 [INFO] LoadUrlFilesThread:146 - End of LoadUrlFiles Thread
+2022-04-28 21:11:08,818 [INFO] ServerAccessManage:359 - Download File cube-finder-db.zip
+2022-04-28 21:11:09,696 [INFO] FileExtend:235 - Unzip File : cube-finder-db.zip
+2022-04-28 21:11:09,696 [INFO] FileExtend:250 - Standard Zip Deflate
+2022-04-28 21:11:10,291 [INFO] LoadUrlFilesThread:146 - End of LoadUrlFiles Thread
+2022-04-28 21:11:11,505 [WARN] MainUpdater:1180 - Updater busy. Cannot search thirdparties
+2022-04-28 21:11:11,505 [INFO] ThirdPartyUpdaterWithRetryManager:92 - Updater plugin is busy. [2/15]
+2022-04-28 21:11:11,521 [INFO] ServerAccessManage:359 - Download File crdb.zip
+2022-04-28 21:11:12,820 [INFO] FileExtend:235 - Unzip File : crdb.zip
+2022-04-28 21:11:12,821 [INFO] FileExtend:250 - Standard Zip Deflate
+2022-04-28 21:11:12,953 [INFO] LoadUrlFilesThread:146 - End of LoadUrlFiles Thread
+2022-04-28 21:11:12,995 [INFO] ServerAccessManage:359 - Download File tutoVideoDB.zip
+2022-04-28 21:11:13,000 [INFO] FileExtend:235 - Unzip File : tutoVideoDB.zip
+2022-04-28 21:11:13,000 [INFO] FileExtend:250 - Standard Zip Deflate
+2022-04-28 21:11:13,122 [INFO] LoadUrlFilesThread:146 - End of LoadUrlFiles Thread
+2022-04-28 21:11:13,123 [INFO] DbMcusAds:47 - JSON generation date=Thu Sep 30 03:56:37 BRT 2021 (1632984997303)
+2022-04-28 21:11:13,146 [INFO] LoadUrlFilesThread:173 - End of LoadServerUrlFiles without Thread
+2022-04-28 21:11:13,146 [INFO] TargetSelectorAdapter:228 - Refresh data is successful
+2022-04-28 21:11:13,254 [INFO] ApiDb:567 - Connected to CubeFinder SQLite database (C:\Users\Filipe Henrique\.stmcufinder\plugins\mcufinder\mcu\cube-finder-db.db)
+2022-04-28 21:11:13,280 [INFO] ApiDb:654 - CubeFinder database Data Model version=2.1
+2022-04-28 21:11:13,280 [INFO] ApiDb:655 - CubeFinder database Configuration version=3.0.28
+2022-04-28 21:11:13,280 [INFO] ApiDb:656 - CubeFinder database generation date=2022-04-07 (1649336788)
+2022-04-28 21:11:13,280 [INFO] ApiDb:657 - CubeFinder database FW Pack versions=[STM32Cube_FW_C0_V1.0.0, STM32Cube_FW_F4_V1.27.0, STM32Cube_FW_F7_V1.16.2, STM32Cube_FW_G0_V1.5.1, STM32Cube_FW_G4_V1.5.0, STM32Cube_FW_H7_V1.10.0, STM32Cube_FW_L5_V1.4.0, STM32Cube_FW_U5_V1.1.0, STM32Cube_FW_WB_V1.13.3, STM32Cube_FW_WL_V1.2.0, X-CUBE-ALGOBUILD_V1.3.0, X-CUBE-ALS_V1.0.1, X-CUBE-AZRTOS-F4_V1.0.0, X-CUBE-AZRTOS-F7_V1.0.0, X-CUBE-AZRTOS-G0_V1.0.0, X-CUBE-AZRTOS-G4_V1.0.0, X-CUBE-AZRTOS-H7_V2.0.0, X-CUBE-AZRTOS-L4_V1.0.0, X-CUBE-AZRTOS-L5_V1.0.0, X-CUBE-AZRTOS-WL_V1.0.0, X-CUBE-BLE1_V6.2.3, X-CUBE-BLE2_V3.2.2, X-CUBE-EEPRMA1_V3.1.1, X-CUBE-GNSS1_V5.2.0, X-CUBE-MEMS1_V9.1.0, X-CUBE-NFC4_V2.0.3, X-CUBE-NFC7_V1.0.0, X-CUBE-SFXS2LP1_V3.1.0, X-CUBE-SUBG2_V4.2.0]
+2022-04-28 21:11:14,741 [WARN] PackLoader:238 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfSSL.5.2.0
+2022-04-28 21:11:14,833 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.9.2.0
+2022-04-28 21:11:15,053 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.7.1.0
+2022-04-28 21:11:15,061 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.19.1
+2022-04-28 21:11:15,072 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE1.6.2.3
+2022-04-28 21:11:15,080 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC4.2.0.4
+2022-04-28 21:11:15,086 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE2.3.2.2
+2022-04-28 21:11:15,094 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SFXS2LP1.3.1.0
+2022-04-28 21:11:15,137 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F4.1.0.0
+2022-04-28 21:11:15,145 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC7.1.0.0
+2022-04-28 21:11:15,172 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SUBG2.4.2.0
+2022-04-28 21:11:15,213 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G0.1.0.0
+2022-04-28 21:11:15,226 [WARN] PackLoader:238 - Cannot read IP mode file for RoweBots.I-CUBE-UNISONRTOS.5.5.0-4
+2022-04-28 21:11:15,254 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7.2.1.0
+2022-04-28 21:11:15,326 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALGOBUILD.1.3.0
+2022-04-28 21:11:15,392 [WARN] PackLoader:238 - Cannot read IP mode file for SEGGER.I-CUBE-embOS.1.2.0
+2022-04-28 21:11:15,445 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DISPLAY.2.1.0
+2022-04-28 21:11:15,463 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G4.1.0.0
+2022-04-28 21:11:15,493 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L4.1.0.0
+2022-04-28 21:11:15,502 [WARN] PackLoader:238 - Cannot read IP mode file for emotas.I-CUBE-CANOPEN.1.1.2
+2022-04-28 21:11:15,514 [INFO] ApiDb:212 - Found 97 in-development CPN: [NUCLEO-C031C6, STM32C0116-DK, STM32C011D6Y3TR, STM32C011D6Y6TR, STM32C011F4P3, STM32C011F4P6, STM32C011F4U3, STM32C011F4U6TR, STM32C011F6P3, STM32C011F6P6, STM32C011F6U3, STM32C011F6U6TR, STM32C011J4M3, STM32C011J4M6, STM32C011J6M3, STM32C011J6M6, STM32C0316-DK, STM32C031C4T3, STM32C031C4T6, STM32C031C4U3, STM32C031C4U6, STM32C031C6T3, STM32C031C6T6, STM32C031C6U3, STM32C031C6U6, STM32C031F4P3, STM32C031F4P6, STM32C031F6P3, STM32C031F6P6, STM32C031G4U3, STM32C031G4U6, STM32C031G6U3, STM32C031G6U6, STM32C031K4T3, STM32C031K4T6, STM32C031K4U3, STM32C031K4U6, STM32C031K6T3, STM32C031K6T6, STM32C031K6U3, STM32C031K6U6, STM32G071K8TXN, STM32G071K8UXN, STM32G081GBU6N, STM32G081KBT6N, STM32G081KBUXN, STM32G0B1CCT6N, STM32G0B1KCT6, STM32G0B1NEY6, STM32G0B1NEY6TR, STM32G0B1RCT6N, STM32G0C1CCT6, STM32G0C1CCT6N, STM32G0C1CCU6N, STM32G0C1CET6N, STM32G0C1CEU6N, STM32G0C1KCT6, STM32G0C1NEY6TR, STM32G0C1RCI6N, STM32G0C1RCT6N, STM32G0C1REI6N, STM32G0C1RET6N, STM32G0C1VCI6, STM32G0C1VEI6, STM32G471CCT6, STM32G471CCU6, STM32G471CET3, STM32G471CET6, STM32G471CEU3, STM32G471CEU6, STM32G471MCT6, STM32G471MET3, STM32G471MET6, STM32G471MEY6TR, STM32G471QCT6, STM32G471QET3, STM32G471RCT6, STM32G471RET3, STM32G471RET6, STM32G471VCH6, STM32G471VCI6, STM32G471VCT6, STM32G471VEH3, STM32G471VEH6, STM32G471VEI3, STM32G471VEI6, STM32G471VET3, STM32G471VET6, STM32G474CCT6, STM32L4R5QGI6STR, STM32U595ZJT6Q, STM32U599BJY6QTR, STM32U599NIH6Q, STM32U599NJH6Q, STM32U5A5ZJT6Q, STM32U5A9BJY6QTR, STM32U5A9NJH6Q]
+2022-04-28 21:11:15,534 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F7.1.0.0
+2022-04-28 21:11:15,576 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WL.1.0.0
+2022-04-28 21:11:15,584 [WARN] PackLoader:238 - Cannot read IP mode file for portGmbH.I-Cube-SoM-uGOAL.1.1.0
+2022-04-28 21:11:15,589 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALS.1.0.1
+2022-04-28 21:11:15,593 [INFO] DbMcus:201 - Found 3458 MCUs, 3458 are supported
+2022-04-28 21:11:15,616 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L5.1.0.0
+2022-04-28 21:11:15,630 [INFO] ApiDb:407 - Load user favorites file C:\Users\Filipe Henrique/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2022-04-28 21:11:15,630 [INFO] ApiDb:411 - User favorites MCUs=[]
+2022-04-28 21:11:15,630 [INFO] DbMcus:207 - Set 0 / 0 favorites MCUs
+2022-04-28 21:11:15,641 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-EEPRMA1.3.1.1
+2022-04-28 21:11:15,652 [INFO] ApiDb:654 - CubeFinder database Data Model version=2.1
+2022-04-28 21:11:15,652 [INFO] ApiDb:655 - CubeFinder database Configuration version=3.0.28
+2022-04-28 21:11:15,652 [INFO] ApiDb:656 - CubeFinder database generation date=2022-04-07 (1649336788)
+2022-04-28 21:11:15,652 [INFO] ApiDb:657 - CubeFinder database FW Pack versions=[STM32Cube_FW_C0_V1.0.0, STM32Cube_FW_F4_V1.27.0, STM32Cube_FW_F7_V1.16.2, STM32Cube_FW_G0_V1.5.1, STM32Cube_FW_G4_V1.5.0, STM32Cube_FW_H7_V1.10.0, STM32Cube_FW_L5_V1.4.0, STM32Cube_FW_U5_V1.1.0, STM32Cube_FW_WB_V1.13.3, STM32Cube_FW_WL_V1.2.0, X-CUBE-ALGOBUILD_V1.3.0, X-CUBE-ALS_V1.0.1, X-CUBE-AZRTOS-F4_V1.0.0, X-CUBE-AZRTOS-F7_V1.0.0, X-CUBE-AZRTOS-G0_V1.0.0, X-CUBE-AZRTOS-G4_V1.0.0, X-CUBE-AZRTOS-H7_V2.0.0, X-CUBE-AZRTOS-L4_V1.0.0, X-CUBE-AZRTOS-L5_V1.0.0, X-CUBE-AZRTOS-WL_V1.0.0, X-CUBE-BLE1_V6.2.3, X-CUBE-BLE2_V3.2.2, X-CUBE-EEPRMA1_V3.1.1, X-CUBE-GNSS1_V5.2.0, X-CUBE-MEMS1_V9.1.0, X-CUBE-NFC4_V2.0.3, X-CUBE-NFC7_V1.0.0, X-CUBE-SFXS2LP1_V3.1.0, X-CUBE-SUBG2_V4.2.0]
+2022-04-28 21:11:15,658 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-GNSS1.5.2.0
+2022-04-28 21:11:15,665 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOF1.3.0.0
+2022-04-28 21:11:15,668 [INFO] ThirdParty:925 - Integrity check success = true
+2022-04-28 21:11:15,668 [INFO] IntegrityCheckThread:94 - exiting critical section [integrity check]
+2022-04-28 21:11:15,669 [INFO] IntegrityCheckThread:97 - End integrity checks thread
+2022-04-28 21:11:15,738 [INFO] DbBoardsSqlite:220 - include board P-NUCLEO-WB55-NUCLEO as a kit item of type 'Nucleo-64'
+2022-04-28 21:11:15,739 [INFO] DbBoardsSqlite:220 - include board P-NUCLEO-WB55-USBDONGLE as a kit item of type 'Nucleo USB Dongle'
+2022-04-28 21:11:15,739 [INFO] DbBoardsSqlite:220 - include board STEVAL-IDP005V1 as a kit item of type 'Evaluation Board'
+2022-04-28 21:11:15,740 [INFO] DbBoardsSqlite:220 - include board STEVAL-IDP005V2 as a kit item of type 'Evaluation Board'
+2022-04-28 21:11:15,760 [INFO] ApiDb:212 - Found 97 in-development CPN: [NUCLEO-C031C6, STM32C0116-DK, STM32C011D6Y3TR, STM32C011D6Y6TR, STM32C011F4P3, STM32C011F4P6, STM32C011F4U3, STM32C011F4U6TR, STM32C011F6P3, STM32C011F6P6, STM32C011F6U3, STM32C011F6U6TR, STM32C011J4M3, STM32C011J4M6, STM32C011J6M3, STM32C011J6M6, STM32C0316-DK, STM32C031C4T3, STM32C031C4T6, STM32C031C4U3, STM32C031C4U6, STM32C031C6T3, STM32C031C6T6, STM32C031C6U3, STM32C031C6U6, STM32C031F4P3, STM32C031F4P6, STM32C031F6P3, STM32C031F6P6, STM32C031G4U3, STM32C031G4U6, STM32C031G6U3, STM32C031G6U6, STM32C031K4T3, STM32C031K4T6, STM32C031K4U3, STM32C031K4U6, STM32C031K6T3, STM32C031K6T6, STM32C031K6U3, STM32C031K6U6, STM32G071K8TXN, STM32G071K8UXN, STM32G081GBU6N, STM32G081KBT6N, STM32G081KBUXN, STM32G0B1CCT6N, STM32G0B1KCT6, STM32G0B1NEY6, STM32G0B1NEY6TR, STM32G0B1RCT6N, STM32G0C1CCT6, STM32G0C1CCT6N, STM32G0C1CCU6N, STM32G0C1CET6N, STM32G0C1CEU6N, STM32G0C1KCT6, STM32G0C1NEY6TR, STM32G0C1RCI6N, STM32G0C1RCT6N, STM32G0C1REI6N, STM32G0C1RET6N, STM32G0C1VCI6, STM32G0C1VEI6, STM32G471CCT6, STM32G471CCU6, STM32G471CET3, STM32G471CET6, STM32G471CEU3, STM32G471CEU6, STM32G471MCT6, STM32G471MET3, STM32G471MET6, STM32G471MEY6TR, STM32G471QCT6, STM32G471QET3, STM32G471RCT6, STM32G471RET3, STM32G471RET6, STM32G471VCH6, STM32G471VCI6, STM32G471VCT6, STM32G471VEH3, STM32G471VEH6, STM32G471VEI3, STM32G471VEI6, STM32G471VET3, STM32G471VET6, STM32G474CCT6, STM32L4R5QGI6STR, STM32U595ZJT6Q, STM32U599BJY6QTR, STM32U599NIH6Q, STM32U599NJH6Q, STM32U5A5ZJT6Q, STM32U5A9BJY6QTR, STM32U5A9NJH6Q]
+2022-04-28 21:11:15,800 [INFO] BoardInfo:872 - No configuration file found for board B-G431B-ESC1
+2022-04-28 21:11:15,800 [INFO] DbBoards:144 - Board is not supported: B-G431B-ESC1
+2022-04-28 21:11:15,813 [INFO] BoardInfo:872 - No configuration file found for board I-NUCLEO-LRWAN1
+2022-04-28 21:11:15,813 [INFO] DbBoards:144 - Board is not supported: I-NUCLEO-LRWAN1
+2022-04-28 21:11:15,959 [INFO] BoardInfo:872 - No configuration file found for board P-NUCLEO-WB55
+2022-04-28 21:11:15,959 [INFO] DbBoards:144 - Kit is not supported: P-NUCLEO-WB55
+2022-04-28 21:11:15,964 [INFO] BoardInfo:872 - No configuration file found for board STEVAL-BFA001V1B
+2022-04-28 21:11:15,965 [INFO] DbBoards:144 - Kit is not supported: STEVAL-BFA001V1B
+2022-04-28 21:11:15,966 [INFO] BoardInfo:872 - No configuration file found for board STEVAL-BFA001V2B
+2022-04-28 21:11:15,966 [INFO] DbBoards:144 - Kit is not supported: STEVAL-BFA001V2B
+2022-04-28 21:11:16,069 [INFO] DbBoards:148 - Found 174 boards, 169 are supported
+2022-04-28 21:11:16,079 [INFO] ApiDb:407 - Load user favorites file C:\Users\Filipe Henrique/.stm32cubeide/favorites.boards.txt: 1 item(s)
+2022-04-28 21:11:16,079 [INFO] ApiDb:411 - User favorites Boards=[STM32F746G-DISCO]
+2022-04-28 21:11:16,080 [INFO] DbBoards:174 - Set 1 / 1 favorites Boards
+2022-04-28 21:11:16,083 [INFO] ApiDb:654 - CubeFinder database Data Model version=2.1
+2022-04-28 21:11:16,083 [INFO] ApiDb:655 - CubeFinder database Configuration version=3.0.28
+2022-04-28 21:11:16,083 [INFO] ApiDb:656 - CubeFinder database generation date=2022-04-07 (1649336788)
+2022-04-28 21:11:16,083 [INFO] ApiDb:657 - CubeFinder database FW Pack versions=[STM32Cube_FW_C0_V1.0.0, STM32Cube_FW_F4_V1.27.0, STM32Cube_FW_F7_V1.16.2, STM32Cube_FW_G0_V1.5.1, STM32Cube_FW_G4_V1.5.0, STM32Cube_FW_H7_V1.10.0, STM32Cube_FW_L5_V1.4.0, STM32Cube_FW_U5_V1.1.0, STM32Cube_FW_WB_V1.13.3, STM32Cube_FW_WL_V1.2.0, X-CUBE-ALGOBUILD_V1.3.0, X-CUBE-ALS_V1.0.1, X-CUBE-AZRTOS-F4_V1.0.0, X-CUBE-AZRTOS-F7_V1.0.0, X-CUBE-AZRTOS-G0_V1.0.0, X-CUBE-AZRTOS-G4_V1.0.0, X-CUBE-AZRTOS-H7_V2.0.0, X-CUBE-AZRTOS-L4_V1.0.0, X-CUBE-AZRTOS-L5_V1.0.0, X-CUBE-AZRTOS-WL_V1.0.0, X-CUBE-BLE1_V6.2.3, X-CUBE-BLE2_V3.2.2, X-CUBE-EEPRMA1_V3.1.1, X-CUBE-GNSS1_V5.2.0, X-CUBE-MEMS1_V9.1.0, X-CUBE-NFC4_V2.0.3, X-CUBE-NFC7_V1.0.0, X-CUBE-SFXS2LP1_V3.1.0, X-CUBE-SUBG2_V4.2.0]
+2022-04-28 21:11:16,835 [INFO] DbExamplesSqlite:367 - Ignored 24 examples not supported by CubeIDE
+2022-04-28 21:11:16,835 [INFO] DbExamplesSqlite:368 - Found 6137 examples active
+2022-04-28 21:11:16,835 [INFO] DbExamplesSqlite:369 - Found 64 examples obsolete
+2022-04-28 21:11:16,836 [INFO] DbExamplesSqlite:370 - Found 0 examples under development
+2022-04-28 21:11:16,836 [INFO] DbExamplesSqlite:371 - Found 96 examples not building
+2022-04-28 21:11:16,837 [INFO] DbExamples:124 - Found 6209 examples
+2022-04-28 21:11:16,899 [ERROR] DbExamples:207 - Found 1350 examples with invalid data (board or MCU)
+2022-04-28 21:11:16,899 [INFO] DbExamples:221 - Found 77 boards with related examples
+2022-04-28 21:11:16,900 [INFO] DbExamples:234 - Found 63 MCUs with related examples
+2022-04-28 21:11:16,919 [INFO] ApiDb:398 - User favorites file not found: C:\Users\Filipe Henrique/.stm32cubeide/favorites.examples.txt
+2022-04-28 21:11:16,920 [INFO] DbExamples:249 - Set 0 / 0 favorites Examples
+2022-04-28 21:11:17,089 [INFO] McuFinderGlobals:52 - Set McuFinderConnectedMode to true
+2022-04-28 21:11:17,096 [INFO] MultiScanPanel:195 - Auto-refresh data requested => check proxy status ongoing
+2022-04-28 21:11:17,099 [INFO] FinderPluginLoader:87 - Searching for filters in installed packs
+2022-04-28 21:11:18,539 [INFO] LoadUrlFilesThread:173 - End of LoadServerUrlFiles without Thread
+2022-04-28 21:11:18,562 [INFO] DetailPanel:315 - Set advertising image to C:/Users/Filipe Henrique/STM32Cube/Repository/\en.Prom_NBSTM32U50921.jpg
+2022-04-28 21:11:55,371 [INFO] MultiScanPanel:195 - Auto-refresh data requested => check proxy status ongoing
+2022-04-28 21:11:55,483 [INFO] LoadUrlFilesThread:173 - End of LoadServerUrlFiles without Thread
+2022-04-28 21:11:55,484 [INFO] DetailPanel:315 - Set advertising image to C:/Users/Filipe Henrique/STM32Cube/Repository/\en.Prom_NBSTM32U50921.jpg
+2022-04-28 21:11:55,492 [INFO] DbBoards:259 - Loading board mini-images...
+2022-04-28 21:11:55,677 [ERROR] DbBoards:279 - No image file defined for board NUCLEO-C031C6
+2022-04-28 21:11:57,014 [ERROR] DbBoards:279 - No image file defined for board P-L496G-CELL01
+2022-04-28 21:11:57,179 [ERROR] DbBoards:279 - No image file defined for board STM32091C-EVAL
+2022-04-28 21:11:57,179 [ERROR] DbBoards:279 - No image file defined for board STM32100E-EVAL
+2022-04-28 21:11:57,179 [ERROR] DbBoards:279 - No image file defined for board STM3210C-EVAL
+2022-04-28 21:11:57,198 [ERROR] DbBoards:279 - No image file defined for board STM3221G-EVAL
+2022-04-28 21:11:57,198 [ERROR] DbBoards:279 - No image file defined for board STM32303C-EVAL
+2022-04-28 21:11:57,305 [ERROR] DbBoards:279 - No image file defined for board STM32479I-EVAL
+2022-04-28 21:11:57,306 [ERROR] DbBoards:279 - No image file defined for board STM32746G-EVAL2
+2022-04-28 21:11:57,315 [ERROR] DbBoards:279 - No image file defined for board STM32C0116-DK
+2022-04-28 21:11:57,315 [ERROR] DbBoards:279 - No image file defined for board STM32C0316-DK
+2022-04-28 21:11:57,373 [ERROR] DbBoards:279 - No image file defined for board STM32F401C-DISCO
+2022-04-28 21:11:57,467 [ERROR] DbBoards:279 - No image file defined for board STM32F7308-DK
+2022-04-28 21:11:57,532 [ERROR] DbBoards:279 - No image file defined for board STM32F779I-EVAL
+2022-04-28 21:11:57,867 [ERROR] DbBoards:279 - No image file defined for board STM32H747I-EVAL
+2022-04-28 21:11:57,919 [ERROR] DbBoards:279 - No image file defined for board STM32L-DISCOVERY
+2022-04-28 21:11:57,977 [ERROR] DbBoards:279 - No image file defined for board STM32L152D-EVAL
+2022-04-28 21:11:58,392 [INFO] DbBoards:282 - Loaded 157 board mini-images
+2022-04-28 21:13:14,102 [INFO] MainUpdater:2729 - connection check result : 10
+2022-04-28 21:13:14,102 [INFO] MainUpdater:2729 - connection check result : 10
+2022-04-28 21:13:14,270 [INFO] MicroXplorer:447 - Change Database Path : 
+2022-04-28 21:13:14,270 [INFO] MicroXplorer:477 - Change Database Version : DB.6.0.50
+2022-04-28 21:13:14,270 [WARN] ThirdParty:823 - waiting for thirdparty lock release [close project]
+2022-04-28 21:13:14,270 [INFO] ThirdParty:825 - entering critical section [close project]
+2022-04-28 21:13:14,274 [INFO] ThirdParty:835 - exiting critical section [close project]
+2022-04-28 21:13:14,280 [INFO] PinOutPanel:1465 - setPackage(No Configuration,No Configuration)
+2022-04-28 21:13:14,285 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 532966848 Bytes (549453824)
+2022-04-28 21:13:14,287 [INFO] OpenFileManager:303 - Change cursor
+2022-04-28 21:13:14,374 [INFO] ProjectFactory:359 - No CPN specified for board STM32F746G-DISCO => set CPN to STM32F746NGH6
+2022-04-28 21:13:14,374 [INFO] Mcu:1893 - Initializing MCU STM32F746NGHx STM32F746NGHx STM32F746NGH6
+2022-04-28 21:13:18,918 [INFO] Context:599 - Trying to add GPIOservice into a context  which must be forbidden
+2022-04-28 21:13:19,569 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB1 is applicable
+2022-04-28 21:13:19,569 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB1 is applicable
+2022-04-28 21:13:19,569 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB2 is applicable
+2022-04-28 21:13:19,570 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB2 is applicable
+2022-04-28 21:13:19,570 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB3 is applicable
+2022-04-28 21:13:19,570 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB3 is applicable
+2022-04-28 21:13:19,570 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB4 is applicable
+2022-04-28 21:13:19,570 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB4 is applicable
+2022-04-28 21:13:19,570 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Secured memory - MPCBB1 is applicable
+2022-04-28 21:13:19,570 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Secured memory - MPCBB2 is applicable
+2022-04-28 21:13:19,570 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Secured memory - MPCBB3 is applicable
+2022-04-28 21:13:19,570 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Secured memory - MPCBB4 is applicable
+2022-04-28 21:13:19,570 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB1 is applicable
+2022-04-28 21:13:19,570 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB2 is applicable
+2022-04-28 21:13:19,570 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB3 is applicable
+2022-04-28 21:13:19,570 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB4 is applicable
+2022-04-28 21:13:19,570 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB1 is applicable
+2022-04-28 21:13:19,570 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB2 is applicable
+2022-04-28 21:13:19,570 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB3 is applicable
+2022-04-28 21:13:19,570 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB4 is applicable
+2022-04-28 21:13:19,570 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB1 is applicable
+2022-04-28 21:13:19,570 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB2 is applicable
+2022-04-28 21:13:19,571 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB3 is applicable
+2022-04-28 21:13:19,571 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB4 is applicable
+2022-04-28 21:13:19,571 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB1 is applicable
+2022-04-28 21:13:19,571 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB2 is applicable
+2022-04-28 21:13:19,571 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB3 is applicable
+2022-04-28 21:13:19,571 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB4 is applicable
+2022-04-28 21:13:19,571 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB1 is applicable
+2022-04-28 21:13:19,571 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB2 is applicable
+2022-04-28 21:13:19,571 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB3 is applicable
+2022-04-28 21:13:19,571 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB4 is applicable
+2022-04-28 21:13:19,571 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB1 is applicable
+2022-04-28 21:13:19,571 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB2 is applicable
+2022-04-28 21:13:19,571 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB3 is applicable
+2022-04-28 21:13:19,571 [INFO] Rule:221 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB4 is applicable
+2022-04-28 21:13:19,571 [INFO] Rule:221 - rule Rename SubGHz_Phy SUBGHZ_APPLICATION SUBGHZ_PINGPONG to SUBGHZ_ADV_APPLICATION is applicable
+2022-04-28 21:13:19,571 [INFO] Rule:221 - rule Rename Enabled to IBEACON is applicable
+2022-04-28 21:13:19,571 [INFO] Rule:221 - rule GTZC_S instance for project manager is applicable
+2022-04-28 21:13:19,571 [INFO] Rule:221 - rule GTZC_S instance for context M33S is applicable
+2022-04-28 21:13:19,571 [INFO] Rule:221 - rule GTZC_S instance value for IP GTZC is applicable
+2022-04-28 21:13:19,571 [INFO] Rule:221 - rule GTZC_S instance for mcu.IP is applicable
+2022-04-28 21:13:19,571 [INFO] Rule:221 - rule GTZC_S instance for VP is applicable
+2022-04-28 21:13:19,572 [INFO] Rule:221 - rule GTZC_S instance for signal is applicable
+2022-04-28 21:13:19,572 [INFO] Rule:221 - rule GTZC_S instance for mcu.Pin is applicable
+2022-04-28 21:13:19,572 [INFO] Rule:221 - rule GTZC_S instance for VP is applicable
+2022-04-28 21:13:19,572 [INFO] Rule:221 - rule GTZC_S instance for signal is applicable
+2022-04-28 21:13:19,572 [INFO] Rule:221 - rule GTZC_S instance for mcu is applicable
+2022-04-28 21:13:19,572 [INFO] Rule:221 - rule GTZC_S instance for mcu.Pin is applicable
+2022-04-28 21:13:19,572 [INFO] Rule:221 - rule GTZC_S instance value for IP GTZC is applicable
+2022-04-28 21:13:19,572 [INFO] Rule:221 - rule GTZC_S instance for project manager is applicable
+2022-04-28 21:13:19,572 [INFO] Rule:221 - rule GTZC_S instance for context M33S is applicable
+2022-04-28 21:13:19,572 [INFO] Rule:221 - rule GTZC_S instance for VP is applicable
+2022-04-28 21:13:19,572 [INFO] Rule:221 - rule GTZC_S instance for signal is applicable
+2022-04-28 21:13:19,572 [INFO] Rule:221 - rule SPDIFRX instance for mcu is applicable
+2022-04-28 21:13:19,572 [INFO] Rule:221 - rule Rename Tracer Mode is applicable
+2022-04-28 21:13:19,572 [INFO] Rule:221 - rule SPDIFRX instance value for IP SPDIFRX is applicable
+2022-04-28 21:13:19,572 [INFO] Rule:221 - rule SPDIFRX instance for signal is applicable
+2022-04-28 21:13:19,572 [INFO] Rule:221 - rule SPDIFRX instance for project manager is applicable
+2022-04-28 21:13:19,572 [INFO] Rule:221 - rule SPDIFRX instance for project manager is applicable
+2022-04-28 21:13:19,572 [INFO] Rule:221 - rule ADC Scan  fix with FW F7 is applicable
+2022-04-28 21:13:19,572 [INFO] Rule:221 - rule ADC Scan  fix with FW F7 is applicable
+2022-04-28 21:13:19,573 [INFO] Rule:221 - rule Change Default Value for ADC Clock Prescaler G0 family is applicable
+2022-04-28 21:13:19,573 [INFO] Rule:221 - rule Rename AES DataEncryptionTypesList to Algorithm is applicable
+2022-04-28 21:13:19,573 [INFO] Rule:221 - rule Rename TDESECB to CRYP_TDES_ECB is applicable
+2022-04-28 21:13:19,573 [INFO] Rule:221 - rule Rename TDESCBC to CRYP_TDES_CBC is applicable
+2022-04-28 21:13:19,573 [INFO] Rule:221 - rule Rename DESECB to CRYP_DES_ECB is applicable
+2022-04-28 21:13:19,573 [INFO] Rule:221 - rule Rename DESCBC to CRYP_DES_CBC is applicable
+2022-04-28 21:13:19,573 [INFO] Rule:221 - rule Rename AESECB to CRYP_AES_ECB is applicable
+2022-04-28 21:13:19,573 [INFO] Rule:221 - rule Rename AESCBC to CRYP_AES_CBC is applicable
+2022-04-28 21:13:19,573 [INFO] Rule:221 - rule Rename AESCTR to CRYP_AES_CTR is applicable
+2022-04-28 21:13:19,573 [INFO] Rule:221 - rule Rename AESGCM to CRYP_AES_GCM is applicable
+2022-04-28 21:13:19,573 [INFO] Rule:221 - rule Rename AESCCM to CRYP_AES_CCM is applicable
+2022-04-28 21:13:19,574 [INFO] Rule:221 - rule USART TxPinLevelInvertParam Mode is applicable
+2022-04-28 21:13:19,574 [INFO] Rule:221 - rule USART RxPinLevelInvertParam Mode is applicable
+2022-04-28 21:13:19,574 [INFO] Rule:221 - rule USART DataInvertParam Mode is applicable
+2022-04-28 21:13:19,574 [INFO] Rule:221 - rule USART SwapParam Mode is applicable
+2022-04-28 21:13:19,574 [INFO] Rule:221 - rule USART OverrunDisableParam Mode is applicable
+2022-04-28 21:13:19,574 [INFO] Rule:221 - rule USART DMADisableonRxErrorParam Mode is applicable
+2022-04-28 21:13:19,574 [INFO] Rule:221 - rule USART MSBFirstParam Mode is applicable
+2022-04-28 21:13:19,574 [INFO] Rule:221 - rule Update MwName for USB_DEVICE is applicable
+2022-04-28 21:13:19,574 [INFO] Rule:221 - rule Change PWR_Regulator_Voltage_Scale Default Value for RCC  H7 family is applicable
+2022-04-28 21:13:19,574 [INFO] Rule:221 - rule UART/USART IPParameter rename Prescaler parameter to ClockPrescaler is applicable
+2022-04-28 21:13:19,574 [INFO] Rule:221 - rule UART/USART Prescaler rename Prescaler parameter to ClockPrescaler is applicable
+2022-04-28 21:13:19,574 [INFO] Rule:221 - rule TIM1CLockSelection is applicable
+2022-04-28 21:13:19,574 [INFO] Rule:221 - rule TIM15CLockSelection is applicable
+2022-04-28 21:13:19,574 [INFO] Rule:221 - rule align RCC SDMMC3CLockSelection default value on MP1 is applicable
+2022-04-28 21:13:19,575 [INFO] Rule:221 - rule align RCC SDMMC12CLockSelection default value on MP1 is applicable
+2022-04-28 21:13:19,575 [INFO] Rule:221 - rule align RCC QSPICLockSelection default value on MP1 is applicable
+2022-04-28 21:13:19,575 [INFO] Rule:221 - rule align RCC QSPICLockSelection default value on MP1 is applicable
+2022-04-28 21:13:19,575 [INFO] Rule:221 - rule align RCC SPI6CLockSelection default value on MP1 is applicable
+2022-04-28 21:13:19,575 [INFO] Rule:221 - rule align RCC LPTIM23CLockSelection default value on MP1 is applicable
+2022-04-28 21:13:19,575 [INFO] Rule:221 - rule align RCC LPTIM1CLockSelection default value on MP1 is applicable
+2022-04-28 21:13:19,575 [INFO] Rule:221 - rule align RCC USART1CLockSelection default value on MP1 is applicable
+2022-04-28 21:13:19,575 [INFO] Rule:221 - rule align RCC USART24CLockSelection default value on MP1 is applicable
+2022-04-28 21:13:19,575 [INFO] Rule:221 - rule align RCC USART6CLockSelection default value on MP1 is applicable
+2022-04-28 21:13:19,575 [INFO] Rule:221 - rule align RCC UART78CLockSelection default value on MP1 is applicable
+2022-04-28 21:13:19,575 [INFO] Rule:221 - rule align RCC USART35CLockSelection default value on MP1 is applicable
+2022-04-28 21:13:19,575 [INFO] Rule:221 - rule align RCC SPI45CLockSelection default value on MP1 is applicable
+2022-04-28 21:13:19,575 [INFO] Rule:221 - rule align RCC I2C46CLockSelection BCLK value on MP1 is applicable
+2022-04-28 21:13:19,575 [INFO] Rule:221 - rule align RCC SPI45CLockSelection default value on MP1 is applicable
+2022-04-28 21:13:19,575 [INFO] Rule:221 - rule align RCC I2C12CLockSelection default value on MP1 is applicable
+2022-04-28 21:13:19,575 [INFO] Rule:221 - rule align RCC I2C35CLockSelection default value on MP1 is applicable
+2022-04-28 21:13:19,575 [INFO] Rule:221 - rule align RCC LPTIM45CLockSelection default value on MP1 is applicable
+2022-04-28 21:13:19,575 [INFO] Rule:221 - rule Rename DCMI PIXCK signal is applicable
+2022-04-28 21:13:19,575 [INFO] Rule:221 - rule Change Default Value for I2C46CLockSelection MP1 family is applicable
+2022-04-28 21:13:19,575 [INFO] Rule:221 - rule Change Default Value for UART for G4, G0 and WB families is applicable
+2022-04-28 21:13:19,576 [INFO] Rule:221 - rule Change Default Value for USART for G4, G0 and WB families is applicable
+2022-04-28 21:13:19,576 [INFO] Rule:221 - rule Change Default Value for USART for G4 family is applicable
+2022-04-28 21:13:19,576 [INFO] Rule:221 - rule Change USART1CLockSelection refparam name for MP1 is applicable
+2022-04-28 21:13:19,576 [INFO] Rule:221 - rule Change USART2CLockSelection refparam name for MP1 is applicable
+2022-04-28 21:13:19,576 [INFO] Rule:221 - rule Change USART3CLockSelection refparam name for MP1 is applicable
+2022-04-28 21:13:19,576 [INFO] Rule:221 - rule Change UART4CLockSelection refparam name for MP1 is applicable
+2022-04-28 21:13:19,576 [INFO] Rule:221 - rule Change UART5CLockSelection refparam name for MP1 is applicable
+2022-04-28 21:13:19,576 [INFO] Rule:221 - rule Change LPUART1CLockSelection refparam name for MP1 is applicable
+2022-04-28 21:13:19,576 [INFO] Rule:221 - rule Change LPTIM1CLockSelection refparam name for MP1 is applicable
+2022-04-28 21:13:19,576 [INFO] Rule:221 - rule Change LPTIM2CLockSelection refparam name for MP1 is applicable
+2022-04-28 21:13:19,576 [INFO] Rule:221 - rule Change RCC_MCO1Source refparam name for MP1 is applicable
+2022-04-28 21:13:19,576 [INFO] Rule:221 - rule Change LSCOSource1 refparam name for MP1 is applicable
+2022-04-28 21:13:19,576 [INFO] Rule:221 - rule Change SMPSCLockSelection refparam name for MP1 is applicable
+2022-04-28 21:13:19,576 [INFO] Rule:221 - rule Change LPTIM3CLockSelection refparam name for MP1 is applicable
+2022-04-28 21:13:19,576 [INFO] Rule:221 - rule Change MPCBB* Default Template Mode to Parameters is applicable
+2022-04-28 21:13:19,576 [INFO] Rule:221 - rule Change MPCWM* or MPCBB* Secure Mode to Parameters is applicable
+2022-04-28 21:13:19,577 [INFO] Rule:221 - rule Change MPCWM* or MPCBB* No Secure Mode to Parameters is applicable
+2022-04-28 21:13:19,577 [INFO] Rule:221 - rule Change TZSC IP Secure Mode to Parameters is applicable
+2022-04-28 21:13:19,577 [INFO] Rule:221 - rule Change TZSC IP No Secure Mode to Parameters is applicable
+2022-04-28 21:13:19,577 [INFO] Rule:221 - rule Change TZSC IP Privilege Mode to Parameters is applicable
+2022-04-28 21:13:19,577 [INFO] Rule:221 - rule Change TZSC IP No Privilege Mode to Parameters is applicable
+2022-04-28 21:13:19,577 [INFO] Rule:221 - rule Change TZIC IT Secure Mode to Parameters is applicable
+2022-04-28 21:13:19,577 [INFO] Rule:221 - rule Change TZIC IT No Secure Mode to Parameters is applicable
+2022-04-28 21:13:19,577 [INFO] Rule:221 - rule Add MPCBB1_NonSecureArea_Start_Address value with referenced to MPCBB1_NonSecureArea_Start value is applicable
+2022-04-28 21:13:19,577 [INFO] Rule:221 - rule Add MPCBB2_NonSecureArea_Start_Address value with referenced to MPCBB2_NonSecureArea_Start value is applicable
+2022-04-28 21:13:19,577 [INFO] Rule:221 - rule Add MPCWM1_NonSecureArea*_Start_Address value with referenced to MPCWM1_NonSecureArea*_Start value is applicable
+2022-04-28 21:13:19,577 [INFO] Rule:221 - rule Add MPCWM2_NonSecureArea*_Start_Address value with referenced to MPCWM2_NonSecureArea*_Start value is applicable
+2022-04-28 21:13:19,577 [INFO] Rule:221 - rule Add MPCWM3_NonSecureArea_Start_Address value with referenced to MPCWM3_NonSecureArea_Start value is applicable
+2022-04-28 21:13:19,577 [INFO] Rule:221 - rule Change Default Value for PLL1UserDefinedConfig is applicable
+2022-04-28 21:13:19,577 [INFO] Rule:221 - rule Change GPIO_PuPd Default Value for USART in async mode is applicable
+2022-04-28 21:13:19,577 [INFO] Rule:221 - rule Change SMPSDivider Default Value is applicable
+2022-04-28 21:13:19,577 [INFO] Rule:221 - rule OPAMP is applicable
+2022-04-28 21:13:19,578 [INFO] Rule:221 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32H7 is applicable
+2022-04-28 21:13:19,578 [INFO] Rule:221 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32H7 is applicable
+2022-04-28 21:13:19,578 [INFO] Rule:221 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32WB is applicable
+2022-04-28 21:13:19,578 [INFO] Rule:221 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32WB is applicable
+2022-04-28 21:13:19,578 [INFO] Rule:221 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32G4 is applicable
+2022-04-28 21:13:19,578 [INFO] Rule:221 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32G4 is applicable
+2022-04-28 21:13:19,578 [INFO] Rule:221 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32L5 is applicable
+2022-04-28 21:13:19,578 [INFO] Rule:221 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32L5 is applicable
+2022-04-28 21:13:19,578 [INFO] Rule:221 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32G4 is applicable
+2022-04-28 21:13:19,578 [INFO] Rule:221 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32G4 is applicable
+2022-04-28 21:13:19,578 [INFO] Rule:221 - rule USB device lib V2.5.3 for L0 rename USBD_SUPPORT_USER_STRING parameter to USBD_SUPPORT_USER_STRING_DESC4 is applicable
+2022-04-28 21:13:19,578 [INFO] Rule:221 - rule I2SCLockSelection clock entry align is applicable
+2022-04-28 21:13:19,578 [INFO] Rule:221 - rule Assign TIMx context if used as SYS timebase is applicable
+2022-04-28 21:13:19,578 [INFO] Rule:221 - rule Change GPIO_Pu Default Value for I2C is applicable
+2022-04-28 21:13:19,578 [INFO] Rule:221 - rule Change GPIO_Pu Default Value for SMBus is applicable
+2022-04-28 21:13:19,578 [INFO] Rule:221 - rule Change mode sai is applicable
+2022-04-28 21:13:19,578 [INFO] Rule:221 - rule **Change sai mode is applicable
+2022-04-28 21:13:19,634 [INFO] DbConfProperties:303 - Apply Compatibility (21/156 Rules)
+2022-04-28 21:13:20,203 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.1.0: no header file found
+2022-04-28 21:13:20,203 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.1.0: no header file found
+2022-04-28 21:13:20,203 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.1.0: no header file found
+2022-04-28 21:13:20,216 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,217 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,217 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,217 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,217 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,217 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,217 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,217 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,217 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,217 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,217 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,217 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,217 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,217 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,218 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,218 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,218 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,218 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,218 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,218 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,218 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,218 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,218 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,218 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,218 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,218 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,218 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,218 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,218 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,218 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,218 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,218 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,219 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-04-28 21:13:20,220 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC07A1' from pack STMicroelectronics.X-CUBE-NFC7.1.0.0: no header file found
+2022-04-28 21:13:20,448 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.2.0: no header file found
+2022-04-28 21:13:20,449 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.2.0: no header file found
+2022-04-28 21:13:20,449 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.2.0: no header file found
+2022-04-28 21:13:20,466 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.2.0: no header file found
+2022-04-28 21:13:20,466 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.4.2.0: no header file found
+2022-04-28 21:13:20,466 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.2.0: no header file found
+2022-04-28 21:13:20,468 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.2.3: no header file found
+2022-04-28 21:13:20,471 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2022-04-28 21:13:20,471 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2022-04-28 21:13:20,471 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2022-04-28 21:13:20,472 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2022-04-28 21:13:20,472 [WARN] ModelIntegratedComponent:181 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2022-04-28 21:13:20,476 [WARN] ApiManager:304 - Cannot register API 'Board Extension:EEPRMA1' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.1.1: no header file found
+2022-04-28 21:13:20,477 [WARN] ApiManager:304 - Cannot register API 'Board Extension:EEPRMA2' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.1.1: no header file found
+2022-04-28 21:13:20,477 [WARN] ApiManager:304 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2022-04-28 21:13:20,477 [WARN] ApiManager:304 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2022-04-28 21:13:20,477 [WARN] ApiManager:304 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2022-04-28 21:13:20,478 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.2.0.4: no header file found
+2022-04-28 21:13:20,478 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.2.2: no header file found
+2022-04-28 21:13:20,499 [INFO] ThirdPartyModel:282 - Start build external matchings
+2022-04-28 21:13:20,743 [INFO] ThirdPartyModel:295 - End build external matchings
+2022-04-28 21:13:20,752 [INFO] RtosManager:791 - Current active RTOS is FREERTOS [Cortex-M7NS]
+2022-04-28 21:13:20,769 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:13:20,771 [INFO] ImportTextPane:183 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (FamilyName)
+2022-04-28 21:13:20,791 [INFO] ImportTextPane:183 - (OptionalMessage_ERROR) IP (SDMMC1) : Invalid parameter (WideMode)
+2022-04-28 21:13:21,491 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 620216632 Bytes (719323136)
+2022-04-28 21:13:21,522 [WARN] ThirdParty:785 - waiting for thirdparty lock release [change project]
+2022-04-28 21:13:21,522 [INFO] ThirdParty:787 - entering critical section [change project]
+2022-04-28 21:13:21,522 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 3.1.0
+2022-04-28 21:13:21,522 [INFO] ThirdParty:977 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.2.0
+2022-04-28 21:13:21,522 [INFO] ThirdParty:977 - CMSIS Pack Vendor :RoweBots I-CUBE-UNISONRTOS 5.5.0-4
+2022-04-28 21:13:21,522 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.0.0
+2022-04-28 21:13:21,523 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 2.1.0
+2022-04-28 21:13:21,523 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2022-04-28 21:13:21,523 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2022-04-28 21:13:21,523 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 1.0.0
+2022-04-28 21:13:21,523 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 1.0.0
+2022-04-28 21:13:21,523 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2022-04-28 21:13:21,523 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2022-04-28 21:13:21,523 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2022-04-28 21:13:21,523 [INFO] ThirdParty:977 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.1.2
+2022-04-28 21:13:21,523 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2022-04-28 21:13:21,523 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.0
+2022-04-28 21:13:21,523 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.0.0
+2022-04-28 21:13:21,523 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.2.0
+2022-04-28 21:13:21,523 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 1.0.0
+2022-04-28 21:13:21,523 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 4.2.0
+2022-04-28 21:13:21,523 [INFO] ThirdParty:977 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2022-04-28 21:13:21,523 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2022-04-28 21:13:21,523 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2022-04-28 21:13:21,523 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 7.1.0
+2022-04-28 21:13:21,523 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.19.1
+2022-04-28 21:13:21,523 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2022-04-28 21:13:21,523 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.3
+2022-04-28 21:13:21,523 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2022-04-28 21:13:21,524 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.0.0
+2022-04-28 21:13:21,524 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2022-04-28 21:13:21,524 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2022-04-28 21:13:21,524 [INFO] ThirdParty:977 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.2.0
+2022-04-28 21:13:21,524 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2022-04-28 21:13:21,524 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.0.0
+2022-04-28 21:13:21,524 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 3.1.1
+2022-04-28 21:13:21,524 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 5.2.0
+2022-04-28 21:13:21,524 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2022-04-28 21:13:21,524 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2022-04-28 21:13:21,524 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2022-04-28 21:13:21,524 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.4
+2022-04-28 21:13:21,524 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.2.2
+2022-04-28 21:13:21,524 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2022-04-28 21:13:21,524 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 2.1.0
+2022-04-28 21:13:21,524 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2022-04-28 21:13:21,524 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2022-04-28 21:13:21,524 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.0.0
+2022-04-28 21:13:21,524 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2022-04-28 21:13:21,524 [INFO] ThirdParty:793 - exiting critical section [change project]
+2022-04-28 21:13:22,151 [INFO] PinOutPanel:1465 - setPackage(No Configuration,No Configuration)
+2022-04-28 21:13:22,156 [INFO] PinOutPanel:1465 - setPackage(STM32F746NGHx,TFBGA216)
+2022-04-28 21:13:24,010 [INFO] UtilMem:74 - Before build in PCC Used Memory: 600236064 Bytes (719323136)
+2022-04-28 21:13:26,488 [INFO] UtilMem:74 - After build in PCC Used Memory: 630985080 Bytes (719323136)
+2022-04-28 21:13:26,573 [INFO] ApiDbMcu:488 - Load IP Config File for FATFS
+2022-04-28 21:13:26,595 [INFO] ApiDbMcu:488 - Load IP Config File for FREERTOS
+2022-04-28 21:13:26,609 [INFO] ApiDbMcu:488 - Load IP Config File for USB_HOST
+2022-04-28 21:13:26,611 [WARN] BspModel:449 - BSP dependency skipped because of component: name='IOExpander', api='Unknown'
+2022-04-28 21:13:26,740 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,741 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,741 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,745 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,745 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,746 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,746 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,746 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,746 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,747 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,750 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,752 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,752 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,752 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,752 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,752 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,752 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,752 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,752 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,753 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,753 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,753 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,753 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,753 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,753 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,753 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,753 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,754 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,754 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,754 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,754 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,754 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,754 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,755 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,755 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,755 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,756 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,756 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,756 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,757 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,757 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,758 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,758 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,758 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,758 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,764 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,764 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,764 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,765 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,765 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,765 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,765 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,766 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,766 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,766 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,767 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,767 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,767 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,767 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,768 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,768 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,768 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,769 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,769 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,769 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,770 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,770 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,770 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,771 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,771 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,772 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,772 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,773 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,773 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-04-28 21:13:26,799 [INFO] ApiDbMcu:488 - Load IP Config File for PDM2PCM
+2022-04-28 21:13:26,970 [WARN] FreeRTOS:1000 - Null or empty value: should not occur! (nothing added to the table)
+2022-04-28 21:13:27,429 [INFO] RtosManager:604 - Active RTOS found at IOC load: FREERTOS [Cortex-M7NS]
+2022-04-28 21:13:27,535 [INFO] OpenFileManager:323 - Restore cursor
+2022-04-28 21:13:27,778 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:13:27,939 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:13:27,940 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:13:27,941 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:13:27,943 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:13:27,944 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:13:27,945 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:13:28,913 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 629620056 Bytes (719323136)
+2022-04-28 21:13:37,825 [INFO] ServerAccessManage:359 - Download File stm32cube_fw_f7_v1160.zip
+2022-04-28 21:13:39,900 [ERROR] ServerAccessManage:537 - User Cancel Download : stm32cube_fw_f7_v1160.zip.
+2022-04-28 21:13:40,007 [INFO] LoadServerPackagesThread:185 - End of LoadServerPackages Thread
+2022-04-28 21:13:40,145 [INFO] ThirdPartyModel:282 - Start build external matchings
+2022-04-28 21:13:40,367 [INFO] ThirdPartyModel:295 - End build external matchings
+2022-04-28 21:13:40,375 [INFO] CheckServerUpdateThread:115 - End of CheckServer Thread
+2022-04-28 21:13:42,724 [INFO] McuFinderGlobals:52 - Set McuFinderConnectedMode to true
+2022-04-28 21:13:42,726 [INFO] ApiDb:432 - Save user favorites file C:\Users\Filipe Henrique/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2022-04-28 21:13:42,727 [INFO] ApiDb:436 - User favorites MCUs=[]
+2022-04-28 21:13:42,728 [INFO] ApiDb:432 - Save user favorites file C:\Users\Filipe Henrique/.stm32cubeide/favorites.boards.txt: 1 item(s)
+2022-04-28 21:13:42,728 [INFO] ApiDb:436 - User favorites Boards=[STM32F746G-DISCO]
+2022-04-28 21:14:58,544 [INFO] I2cTimingTraitement:325 - 0x00000E14
+2022-04-28 21:14:58,675 [INFO] I2cTimingTraitement:325 - 0x00000E14
+2022-04-28 21:14:58,877 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:14:59,006 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:14:59,007 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:14:59,008 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:14:59,009 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:14:59,010 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:14:59,011 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:14:59,292 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:14:59,396 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:14:59,398 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:14:59,399 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:14:59,401 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:14:59,402 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:14:59,403 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:14:59,660 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:14:59,757 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:14:59,758 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:14:59,759 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:14:59,760 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:14:59,761 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:14:59,762 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:03,532 [INFO] I2cTimingTraitement:325 - 0x00000103
+2022-04-28 21:15:03,600 [INFO] I2cTimingTraitement:325 - 0x00000103
+2022-04-28 21:15:03,774 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:03,891 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:03,892 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:03,892 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:03,894 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:03,895 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:03,896 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:04,128 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:04,244 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:04,245 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:04,246 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:04,250 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:04,251 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:04,252 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:04,500 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:04,586 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:04,587 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:04,587 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:04,589 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:04,589 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:04,590 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:11,344 [INFO] I2cTimingTraitement:325 - 0x00000405
+2022-04-28 21:15:11,443 [INFO] I2cTimingTraitement:325 - 0x00000405
+2022-04-28 21:15:11,600 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:11,705 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:11,706 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:11,707 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:11,708 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:11,709 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:11,710 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:11,922 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:12,030 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:12,031 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:12,032 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:12,034 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:12,035 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:12,035 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:12,329 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:12,414 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:12,415 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:12,416 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:12,417 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:12,418 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:12,418 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:14,112 [INFO] I2cTimingTraitement:325 - 0x00101622
+2022-04-28 21:15:14,175 [INFO] I2cTimingTraitement:325 - 0x00101622
+2022-04-28 21:15:14,330 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:14,418 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:14,419 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:14,419 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:14,421 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:14,421 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:14,422 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:14,593 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:14,757 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:14,758 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:14,759 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:14,760 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:14,760 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:14,761 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:14,980 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:15,059 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:15,060 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:15,060 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:15,061 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:15,062 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:15,062 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:35,820 [INFO] I2cTimingTraitement:325 - 0x00C0EAFF
+2022-04-28 21:15:35,903 [INFO] I2cTimingTraitement:325 - 0x00C0EAFF
+2022-04-28 21:15:36,052 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:36,140 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:36,140 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:36,141 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:36,142 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:36,143 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:36,143 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:36,344 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:36,520 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:36,521 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:36,521 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:36,523 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:36,523 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:36,524 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:36,740 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:36,826 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:36,827 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:36,828 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:36,829 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:36,830 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:36,830 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:38,252 [INFO] I2cTimingTraitement:325 - 0x00707CBB
+2022-04-28 21:15:38,345 [INFO] I2cTimingTraitement:325 - 0x00707CBB
+2022-04-28 21:15:38,500 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:38,623 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:38,624 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:38,625 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:38,626 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:38,627 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:38,628 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:38,815 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:38,935 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:38,936 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:38,937 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:38,938 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:38,939 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:38,940 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:39,168 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:39,251 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:39,252 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:39,252 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:39,253 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:39,254 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:39,255 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:39,519 [INFO] I2cTimingTraitement:325 - 0x00C0EAFF
+2022-04-28 21:15:39,585 [INFO] I2cTimingTraitement:325 - 0x00C0EAFF
+2022-04-28 21:15:39,721 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:39,810 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:39,811 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:39,812 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:39,813 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:39,814 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:39,815 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:40,012 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:40,164 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:40,165 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:40,165 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:40,167 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:40,168 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:40,168 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:40,404 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:40,483 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:40,484 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:40,485 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:40,486 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:40,486 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:40,487 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:50,989 [INFO] I2cTimingTraitement:325 - 0x20404161
+2022-04-28 21:15:51,046 [INFO] I2cTimingTraitement:325 - 0x20404161
+2022-04-28 21:15:51,185 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:51,267 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:51,268 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:51,268 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:51,270 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:51,270 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:51,271 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:51,445 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:51,607 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:51,607 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:51,608 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:51,610 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:51,610 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:51,611 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:51,817 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:51,895 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:51,895 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:51,896 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:51,897 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:51,898 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:51,898 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:53,819 [INFO] I2cTimingTraitement:325 - 0x00C0E3FF
+2022-04-28 21:15:53,874 [INFO] I2cTimingTraitement:325 - 0x00C0E3FF
+2022-04-28 21:15:54,008 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:54,090 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:54,091 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:54,091 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:54,092 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:54,093 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:54,093 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:54,258 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:54,424 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:54,425 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:54,426 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:54,427 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:54,428 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:54,428 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:54,633 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:54,711 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:54,712 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:54,712 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:54,713 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:54,714 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:54,715 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:57,099 [INFO] I2cTimingTraitement:325 - 0x00C0FDFD
+2022-04-28 21:15:57,155 [INFO] I2cTimingTraitement:325 - 0x00C0FDFD
+2022-04-28 21:15:57,290 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:57,375 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:57,376 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:57,376 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:57,378 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:57,378 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:57,379 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:57,549 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:57,715 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:57,716 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:57,717 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:57,718 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:57,718 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:57,719 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:57,918 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:57,998 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:57,998 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:57,999 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:58,000 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:58,001 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:58,001 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:15:59,728 [INFO] I2cTimingTraitement:325 - 0x20404768
+2022-04-28 21:15:59,782 [INFO] I2cTimingTraitement:325 - 0x20404768
+2022-04-28 21:15:59,913 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:16:00,001 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:16:00,001 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:16:00,002 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:16:00,003 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:16:00,004 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:16:00,004 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:16:00,168 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:16:00,330 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:16:00,330 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:16:00,331 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:16:00,332 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:16:00,332 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:16:00,333 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:16:00,540 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:16:00,620 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:16:00,621 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:16:00,622 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:16:00,623 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:16:00,624 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:16:00,624 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:49,751 [INFO] I2cTimingTraitement:325 - 0x00C0F4FF
+2022-04-28 21:31:49,812 [INFO] I2cTimingTraitement:325 - 0x00C0F4FF
+2022-04-28 21:31:49,957 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:50,051 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:50,051 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:50,052 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:50,053 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:50,054 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:50,054 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:50,249 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:50,431 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:50,431 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:50,432 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:50,433 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:50,434 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:50,435 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:50,646 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:50,728 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:50,729 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:50,730 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:50,731 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:50,731 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:50,732 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:52,056 [INFO] I2cTimingTraitement:325 - 0x1060689C
+2022-04-28 21:31:52,121 [INFO] I2cTimingTraitement:325 - 0x1060689C
+2022-04-28 21:31:52,261 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:52,345 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:52,346 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:52,347 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:52,348 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:52,348 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:52,349 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:52,520 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:52,688 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:52,689 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:52,689 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:52,690 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:52,691 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:52,692 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:52,907 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:52,987 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:52,987 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:52,988 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:52,989 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:52,990 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:52,990 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:54,999 [INFO] I2cTimingTraitement:325 - 0x20404768
+2022-04-28 21:31:55,055 [INFO] I2cTimingTraitement:325 - 0x20404768
+2022-04-28 21:31:55,191 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:55,274 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:55,275 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:55,275 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:55,276 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:55,277 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:55,278 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:55,443 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:55,625 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:55,626 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:55,627 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:55,628 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:55,629 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:55,630 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:55,838 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:55,918 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:55,919 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:55,919 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:55,921 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:55,921 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:31:55,922 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:01,441 [INFO] I2cTimingTraitement:325 - 0xD0C0DCFF
+2022-04-28 21:32:01,544 [INFO] I2cTimingTraitement:325 - 0xD0C0DCFF
+2022-04-28 21:32:01,701 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:01,751 [INFO] ParamManager:825 - [Generic UI] PropertyChangeEvent: TAB_STATUS_CHANGED , "dont care", "never mind"
+2022-04-28 21:32:01,806 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:01,807 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:01,808 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:01,810 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:01,810 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:01,811 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:02,013 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:02,122 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:02,123 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:02,124 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:02,125 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:02,126 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:02,127 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:02,378 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:02,476 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:02,476 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:02,477 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:02,478 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:02,479 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:02,479 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:07,844 [INFO] I2cTimingTraitement:325 - 0x90C0F3F8
+2022-04-28 21:32:07,903 [INFO] I2cTimingTraitement:325 - 0x90C0F3F8
+2022-04-28 21:32:08,051 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:08,147 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:08,148 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:08,148 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:08,150 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:08,151 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:08,151 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:08,346 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:08,464 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:08,464 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:08,465 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:08,467 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:08,467 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:08,468 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:08,674 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:08,771 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:08,771 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:08,772 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:08,773 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:08,774 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:08,774 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:12,475 [INFO] I2cTimingTraitement:325 - 0x109099E6
+2022-04-28 21:32:12,537 [INFO] I2cTimingTraitement:325 - 0x109099E6
+2022-04-28 21:32:12,685 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:12,725 [INFO] ParamManager:825 - [Generic UI] PropertyChangeEvent: TAB_STATUS_CHANGED , "dont care", "never mind"
+2022-04-28 21:32:12,779 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:12,780 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:12,780 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:12,782 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:12,782 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:12,783 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:12,980 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:13,083 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:13,084 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:13,084 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:13,086 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:13,086 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:13,087 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:13,288 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:13,382 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:13,383 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:13,384 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:13,385 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:13,385 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:13,386 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:15,679 [INFO] I2cTimingTraitement:325 - 0x00D0FFFF
+2022-04-28 21:32:15,738 [INFO] I2cTimingTraitement:325 - 0x00D0FFFF
+2022-04-28 21:32:15,886 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:15,980 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:15,980 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:15,981 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:15,982 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:15,983 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:15,984 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:16,173 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:16,276 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:16,277 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:16,277 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:16,278 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:16,279 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:16,280 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:16,474 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:16,553 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:16,554 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:16,554 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:16,556 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:16,556 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:16,557 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:18,163 [INFO] I2cTimingTraitement:325 - 0x2040486B
+2022-04-28 21:32:18,223 [INFO] I2cTimingTraitement:325 - 0x2040486B
+2022-04-28 21:32:18,369 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:18,467 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:18,468 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:18,469 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:18,472 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:18,473 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:18,474 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:18,666 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:18,773 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:18,773 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:18,774 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:18,775 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:18,776 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:18,776 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:18,998 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:19,077 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:19,078 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:19,079 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:19,080 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:19,080 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:19,081 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:24,883 [INFO] I2cTimingTraitement:325 - 0x10A0A3F6
+2022-04-28 21:32:24,942 [INFO] I2cTimingTraitement:325 - 0x10A0A3F6
+2022-04-28 21:32:25,088 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:25,188 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:25,189 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:25,190 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:25,191 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:25,192 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:25,193 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:25,389 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:25,514 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:25,514 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:25,515 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:25,516 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:25,518 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:25,519 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:25,723 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:25,822 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:25,823 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:25,824 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:25,825 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:25,825 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:25,826 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:28,475 [INFO] I2cTimingTraitement:325 - 0x2050517A
+2022-04-28 21:32:28,539 [INFO] I2cTimingTraitement:325 - 0x2050517A
+2022-04-28 21:32:28,687 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:28,781 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:28,782 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:28,783 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:28,784 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:28,785 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:28,785 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:28,983 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:29,091 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:29,092 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:29,092 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:29,093 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:29,094 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:29,094 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:29,313 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:29,395 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:29,395 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:29,396 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:29,397 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:29,398 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:29,398 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:33,403 [INFO] I2cTimingTraitement:325 - 0x20404A6F
+2022-04-28 21:32:33,463 [INFO] I2cTimingTraitement:325 - 0x20404A6F
+2022-04-28 21:32:33,611 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:33,706 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:33,706 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:33,707 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:33,709 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:33,710 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:33,710 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:33,903 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:34,015 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:34,016 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:34,017 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:34,018 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:34,019 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:34,020 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:34,221 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:34,313 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:34,314 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:34,314 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:34,315 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:34,316 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:34,316 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:35,449 [INFO] I2cTimingTraitement:325 - 0x00909CE8
+2022-04-28 21:32:35,512 [INFO] I2cTimingTraitement:325 - 0x00909CE8
+2022-04-28 21:32:35,661 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:35,753 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:35,754 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:35,755 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:35,756 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:35,757 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:35,757 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:35,949 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:36,054 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:36,055 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:36,055 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:36,056 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:36,057 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:36,058 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:36,263 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:36,342 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:36,343 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:36,344 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:36,345 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:36,345 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:36,346 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:38,464 [INFO] I2cTimingTraitement:325 - 0x00A0A1F3
+2022-04-28 21:32:38,528 [INFO] I2cTimingTraitement:325 - 0x00A0A1F3
+2022-04-28 21:32:38,675 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:38,764 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:38,765 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:38,766 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:38,767 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:38,768 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:38,768 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:38,950 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:39,042 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:39,043 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:39,044 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:39,046 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:39,046 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:39,047 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:39,277 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:39,354 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:39,355 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:39,355 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:39,356 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:39,357 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:39,357 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:41,147 [INFO] I2cTimingTraitement:325 - 0x107071A9
+2022-04-28 21:32:41,208 [INFO] I2cTimingTraitement:325 - 0x107071A9
+2022-04-28 21:32:41,352 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:41,441 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:41,442 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:41,442 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:41,444 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:41,445 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:41,445 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:41,642 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:41,752 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:41,752 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:41,753 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:41,754 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:41,755 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:41,755 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:41,979 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:42,061 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:42,062 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:42,063 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:42,064 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:42,064 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:42,065 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:44,930 [INFO] I2cTimingTraitement:325 - 0x2040476A
+2022-04-28 21:32:44,988 [INFO] I2cTimingTraitement:325 - 0x2040476A
+2022-04-28 21:32:45,135 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:45,230 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:45,231 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:45,232 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:45,234 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:45,234 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:45,235 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:45,425 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:45,526 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:45,527 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:45,528 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:45,529 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:45,530 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:45,531 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:45,730 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:45,822 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:45,823 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:45,824 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:45,825 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:45,825 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:45,826 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:47,476 [INFO] I2cTimingTraitement:325 - 0x20404B61
+2022-04-28 21:32:47,534 [INFO] I2cTimingTraitement:325 - 0x20404B61
+2022-04-28 21:32:47,687 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:47,782 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:47,783 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:47,784 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:47,785 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:47,785 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:47,786 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:47,979 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:48,088 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:48,089 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:48,090 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:48,091 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:48,091 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:48,092 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:48,299 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:48,378 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:48,378 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:48,379 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:48,380 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:48,381 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:48,381 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:51,497 [INFO] I2cTimingTraitement:325 - 0x10606B9C
+2022-04-28 21:32:51,565 [INFO] I2cTimingTraitement:325 - 0x10606B9C
+2022-04-28 21:32:51,710 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:51,801 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:51,802 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:51,802 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:51,804 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:51,804 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:51,805 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:51,983 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:52,077 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:52,078 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:52,079 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:52,080 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:52,080 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:52,081 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:52,302 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:52,378 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:52,379 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:52,379 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:52,380 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:52,381 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:52,381 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:57,214 [INFO] I2cTimingTraitement:325 - 0x8010131A
+2022-04-28 21:32:57,274 [INFO] I2cTimingTraitement:325 - 0x8010131A
+2022-04-28 21:32:57,422 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:57,513 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:57,514 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:57,514 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:57,516 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:57,516 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:57,517 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:57,701 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:57,793 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:57,794 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:57,795 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:57,796 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:57,797 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:57,797 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:58,021 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:58,099 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:58,099 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:58,100 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:58,101 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:58,101 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:32:58,102 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:07,034 [INFO] I2cTimingTraitement:325 - 0x0020202F
+2022-04-28 21:33:07,095 [INFO] I2cTimingTraitement:325 - 0x0020202F
+2022-04-28 21:33:07,245 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:07,336 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:07,336 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:07,337 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:07,339 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:07,340 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:07,341 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:07,525 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:07,620 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:07,622 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:07,623 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:07,624 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:07,625 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:07,626 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:07,853 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:07,930 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:07,930 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:07,931 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:07,932 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:07,933 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:07,933 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:12,593 [INFO] I2cTimingTraitement:325 - 0x0020273B
+2022-04-28 21:33:12,656 [INFO] I2cTimingTraitement:325 - 0x0020273B
+2022-04-28 21:33:12,806 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:12,895 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:12,896 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:12,897 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:12,898 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:12,899 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:12,900 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:13,082 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:13,172 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:13,173 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:13,174 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:13,175 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:13,176 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:13,177 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:13,402 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:13,476 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:13,477 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:13,477 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:13,478 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:13,479 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:13,479 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:15,552 [INFO] I2cTimingTraitement:325 - 0x00404568
+2022-04-28 21:33:15,613 [INFO] I2cTimingTraitement:325 - 0x00404568
+2022-04-28 21:33:15,764 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:15,839 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:15,840 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:15,840 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:15,841 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:15,842 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:15,843 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:16,000 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:16,154 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:16,155 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:16,155 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:16,156 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:16,157 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:16,158 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:16,358 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:16,434 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:16,434 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:16,435 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:16,436 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:16,437 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:16,437 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:21,786 [INFO] I2cTimingTraitement:325 - 0x00606A9B
+2022-04-28 21:33:21,840 [INFO] I2cTimingTraitement:325 - 0x00606A9B
+2022-04-28 21:33:21,971 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:22,050 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:22,051 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:22,051 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:22,052 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:22,053 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:22,053 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:22,209 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:22,365 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:22,365 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:22,366 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:22,367 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:22,367 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:22,368 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:22,556 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:22,632 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:22,633 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:22,633 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:22,635 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:22,635 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:22,636 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:30,002 [INFO] I2cTimingTraitement:325 - 0x20404768
+2022-04-28 21:33:30,055 [INFO] I2cTimingTraitement:325 - 0x20404768
+2022-04-28 21:33:30,184 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:30,264 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:30,265 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:30,266 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:30,267 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:30,268 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:30,268 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:30,424 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:30,581 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:30,582 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:30,582 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:30,584 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:30,584 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:30,585 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:30,786 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:30,864 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:30,864 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:30,865 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:30,866 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:30,867 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:30,867 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:35,016 [INFO] I2cTimingTraitement:325 - 0x20808DD4
+2022-04-28 21:33:35,094 [INFO] I2cTimingTraitement:325 - 0x20808DD4
+2022-04-28 21:33:35,238 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:35,329 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:35,329 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:35,330 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:35,332 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:35,332 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:35,333 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:35,523 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:35,622 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:35,623 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:35,624 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:35,625 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:35,625 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:35,626 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:35,847 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:35,927 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:35,927 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:35,928 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:35,929 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:35,929 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:35,930 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:36,913 [INFO] I2cTimingTraitement:325 - 0x20404768
+2022-04-28 21:33:36,973 [INFO] I2cTimingTraitement:325 - 0x20404768
+2022-04-28 21:33:37,120 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:37,200 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:37,201 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:37,202 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:37,203 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:37,203 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:37,204 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:37,372 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:37,471 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:37,472 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:37,473 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:37,474 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:37,474 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:37,475 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:37,666 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:37,742 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:37,743 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:37,743 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:37,744 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:37,745 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:33:37,745 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:45:22,648 [INFO] I2cTimingTraitement:325 - 0x20404768
+2022-04-28 21:45:22,665 [INFO] I2cTimingTraitement:325 - 0x20404768
+2022-04-28 21:45:22,725 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:45:22,800 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:45:22,801 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:45:22,802 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:45:22,803 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:45:22,803 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:45:22,804 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:45:22,977 [WARN] IP:2108 - LayerIdx_L1 not found: check if there is a RefParameter without a condition.
+2022-04-28 21:45:23,054 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:45:23,054 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:45:23,055 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:45:23,056 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:45:23,057 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 21:45:23,057 [WARN] IP:2108 - OutPutPullUp not found: check if there is a RefParameter without a condition.
+2022-04-28 22:09:51,139 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 406742736 Bytes (1071644672)
